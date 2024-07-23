@@ -1,3 +1,3 @@
 # COVID19-Analysis
 
-The project aim to provide data on the 
+The project aims to provide data on Covid19
